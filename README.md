@@ -1,7 +1,7 @@
 # honors-graphing
 
 ## Description
-null
+Graphing assignment given in Honors Java
 
 ### Tags
 [Java, Application]
